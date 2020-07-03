@@ -44,4 +44,6 @@
       lastFood[i].splice(i, 1)
     }
   }
+  
+  window.Food = Food;
 })()
